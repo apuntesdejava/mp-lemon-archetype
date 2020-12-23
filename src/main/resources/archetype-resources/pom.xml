@@ -17,6 +17,7 @@
             <artifactId>microprofile</artifactId>
             <version>3.3</version>
             <scope>provided</scope>
+            <type>pom</type>
         </dependency>
     </dependencies>
     <build>
