@@ -18,7 +18,7 @@
  */
 package ${package};
 
-import javax.ws.rs.ApplicationPath;
+import jakarta.ws.rs.ApplicationPath;
 
 /**
  *
